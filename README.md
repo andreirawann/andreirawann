@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![readmebox](https://github.com/andreirawann/andreirawann/assets/39233264/271e4124-5e05-4b5f-a514-eaf510a66eba)
+
 <!--
 **andreirawann/andreirawann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
