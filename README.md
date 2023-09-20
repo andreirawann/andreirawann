@@ -18,6 +18,4 @@ I'm from Indonesia and I've been working as a Backend Developer for more than 2 
 <h3 align="left">Skills and Tools:</h3>
 
 [![Tools % Skills](https://skillicons.dev/icons?i=html,css,laravel,figma,flutter,vscode,git)](https://skillicons.dev)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=andreirawann&show_icons=true&theme=synthwave)
   
