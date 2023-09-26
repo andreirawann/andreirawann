@@ -4,7 +4,7 @@
 ### 🧑‍💻 About Me
 
 Hi, i'm Andre Irawan. 
-Backend & Mobile Developer
+Backend & Mobile Developer,
 I'm from Indonesia and I've been working as a Backend Developer for more than 2 years.
 
 - 🌍 Website: [andreirawan.com](https://andreirawan.com)
